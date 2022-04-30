@@ -1,0 +1,16 @@
+C:\Users\jlucas13\OneDrive\Documents\source\repos\spring2022\oopprojectsec1\obj\Debug\net5.0\oopprojectsec1.csproj.AssemblyReference.cache
+C:\Users\jlucas13\OneDrive\Documents\source\repos\spring2022\oopprojectsec1\obj\Debug\net5.0\oopprojectsec1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jlucas13\OneDrive\Documents\source\repos\spring2022\oopprojectsec1\obj\Debug\net5.0\oopprojectsec1.AssemblyInfoInputs.cache
+C:\Users\jlucas13\OneDrive\Documents\source\repos\spring2022\oopprojectsec1\obj\Debug\net5.0\oopprojectsec1.AssemblyInfo.cs
+C:\Users\jlucas13\OneDrive\Documents\source\repos\spring2022\oopprojectsec1\obj\Debug\net5.0\oopprojectsec1.csproj.CoreCompileInputs.cache
+C:\Users\jlucas13\OneDrive\Documents\source\repos\spring2022\oopprojectsec1\bin\Debug\net5.0\oopprojectsec1.exe
+C:\Users\jlucas13\OneDrive\Documents\source\repos\spring2022\oopprojectsec1\bin\Debug\net5.0\oopprojectsec1.deps.json
+C:\Users\jlucas13\OneDrive\Documents\source\repos\spring2022\oopprojectsec1\bin\Debug\net5.0\oopprojectsec1.runtimeconfig.json
+C:\Users\jlucas13\OneDrive\Documents\source\repos\spring2022\oopprojectsec1\bin\Debug\net5.0\oopprojectsec1.runtimeconfig.dev.json
+C:\Users\jlucas13\OneDrive\Documents\source\repos\spring2022\oopprojectsec1\bin\Debug\net5.0\oopprojectsec1.dll
+C:\Users\jlucas13\OneDrive\Documents\source\repos\spring2022\oopprojectsec1\bin\Debug\net5.0\ref\oopprojectsec1.dll
+C:\Users\jlucas13\OneDrive\Documents\source\repos\spring2022\oopprojectsec1\bin\Debug\net5.0\oopprojectsec1.pdb
+C:\Users\jlucas13\OneDrive\Documents\source\repos\spring2022\oopprojectsec1\obj\Debug\net5.0\oopprojectsec1.dll
+C:\Users\jlucas13\OneDrive\Documents\source\repos\spring2022\oopprojectsec1\obj\Debug\net5.0\ref\oopprojectsec1.dll
+C:\Users\jlucas13\OneDrive\Documents\source\repos\spring2022\oopprojectsec1\obj\Debug\net5.0\oopprojectsec1.pdb
+C:\Users\jlucas13\OneDrive\Documents\source\repos\spring2022\oopprojectsec1\obj\Debug\net5.0\oopprojectsec1.genruntimeconfig.cache
